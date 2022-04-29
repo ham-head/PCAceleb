@@ -4,7 +4,7 @@ It's not being actively maintained however, *I am planning to porting it to an i
 
 This work is entirely based on CodeParade's [work](https://www.youtube.com/watch?v=4VAkrUNLKSo);
 I am using a similar model architecture but with deeper latent layers to accomodate the bigger dataset (which also has more variance) &mdash;
-this model has approximately 20% more params. It was trained on the [celebA dataset](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html), 
+this model has approximately 20% more params. It was trained on the 100,000 celebrity faces from [celebA dataset](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html), 
 kindly resized to 128x128 images by [greg](https://www.kaggle.com/datasets/greg115/celebrities-100k).
 
 ## MODEL ARCHITECTURE
